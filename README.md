@@ -1,22 +1,17 @@
-# DIO - Desafio GitHub
+# DIO - Desafio GitHub 🧡
 
 ### Este repositório foi criado para concluir o Desafio de Github do Bootcamp Orange Tech+ da DIO em parceria com o Banco Inter.
 
 ----
 
 ## Tecnologias que serão trabalhadas no Bootcamp Orange Tech+
-- HTML5
-- CSS3
-- Javascript
-- React
-- Typescript
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin: 24px 0">
-<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50px" alt="HTML5">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50px" alt="CSS3">
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px" alt="Javascript">
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"  alt="React">
-<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="50px" alt="Typescript">
+<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50px" alt="HTML5" style="padding: 5px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50px" alt="CSS3" style="padding: 5px">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px" alt="Javascript" style="padding: 5px">
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50px"  alt="React" style="padding: 5px">
+<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="50px" alt="Typescript" style="padding: 5px">
 </div>
 
 ----
