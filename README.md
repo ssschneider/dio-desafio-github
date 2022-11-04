@@ -31,11 +31,11 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 
 ## Projetos que serão desenvolvidos
 
-| Projeto | Tecnologia |
-|---------|------------|
-| Primeiro Repositório | Markdown |
-| Pokédex | Javascript |
-| Calculadora | React |
+| Projeto | Tecnologia | Status |
+|---------|------------|------------|
+| Primeiro Repositório | Markdown | Feito|
+| Pokédex | Javascript | <a href="https://github.com/ssschneider/dio-pokedex-simples" target="_blank"> Feito </a>
+| Calculadora | React | 
 | Wiki de Repositórios | React |
 | Tela de Cadastro da DIO | React |
 | Conversão JS => TS | Typescript |
